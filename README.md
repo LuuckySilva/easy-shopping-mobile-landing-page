@@ -37,7 +37,8 @@ This project simulates the landing page of a mobile commerce product. The interf
 
 ## Preview
 
-Add a real screenshot of the final project here.
+<img width="1876" height="955" alt="image" src="https://github.com/user-attachments/assets/f11668cc-5d4f-4ffa-936b-3cc0e3825625" />
+
 
 ## Deploy
 
@@ -45,5 +46,5 @@ Add a real screenshot of the final project here.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/lucky-silva/)
+- [LinkedIn] (www.linkedin.com/in/olucas-silvaa)
 - E-mail: lukasantonyo@gmail.com
